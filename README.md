@@ -1,6 +1,6 @@
 # R Calculator Demo
 A simple R calculator demonstrating a complete CI/CD pipeline with GitHub Actions.
-![CI](https://github.com/YOUR-USERNAME/r-calculator-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/SharoonNasimNJ/r-calculator-demo/actions/workflows/ci.yml/badge.svg)
 ![R](https://img.shields.io/badge/R-4.3-blue)
 
 ## About
@@ -12,6 +12,6 @@ This project demonstrates:
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/r-calculator-demo.git
+git clone https://github.com/SharoonNasimNJ/r-calculator-demo.git
 cd r-calculator-demo
 ![Uploading image.png…]()
