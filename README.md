@@ -1,6 +1,5 @@
 # R Calculator Demo
 A simple R calculator demonstrating a complete CI/CD pipeline with GitHub Actions.
-![CI](https://github.com/SharoonNasimNJ/r-calculator-demo/actions/workflows/ci.yml/badge.svg)
 ![R](https://img.shields.io/badge/R-4.3-blue)
 
 ## About
